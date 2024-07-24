@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#screen-game{
+    background-color: black;
+}
+
+#score{
+    font-size: 22px;
+    color:plum;
+    font-weight: bold ;
+    font-style: italic;
+}
